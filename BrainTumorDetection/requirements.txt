@@ -1,0 +1,9 @@
+numpy
+opencv-python
+pillow
+matplotlib
+joblib
+mysql-connector-python
+tk
+fpdf
+ 
